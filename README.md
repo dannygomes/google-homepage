@@ -9,3 +9,11 @@ Issues:
  After floating ul to the right there is not enough width in the ul element to display li elements side by side.
  Search div is overlapping the navbar div.
  Input field is no longer centered.
+
+ 2.
+
+ Done:
+  Added both buttons with correct styling and text under buttons. Properly aligned navbar and everything else to my screen size.
+
+Issues:
+ None at the moment.

@@ -1,18 +1,56 @@
+#navbar{
+    height: 50px;
+}
 #navbar ul{
-    float: right;
     list-style-type: none;
     padding: 0;
-    background-color: yellowgreen;
+    text-align: right;
+    word-spacing: 115%;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-family: arial,sans-serif;
+    font-size: 17px;
 }
 #navbar li{
-    display: inline;
+    display: inline-block;
+}
+#google_profile_picture{
+    background-color: black;
+    width: 19px;
+    border-radius: 400px;
 }
 
 #search{
     text-align: center;
+    margin-top: 7%;
 }
 #search > *{
     display: block;
-    background-color: orangered;
     margin: 0 auto;
+}
+#search_field{
+    width: 20%;
+    margin-top: 30px;
+    border-radius: 300px;
+    transform: scale(1.5);
+}
+#button_group{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.button{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 6px 16px;
+    text-align: center;
+}
+#under_button{
+    font-size: 13px;
+    font-family: arial,sans-serif;
 }
