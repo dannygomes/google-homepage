@@ -1,0 +1,18 @@
+#navbar ul{
+    float: right;
+    list-style-type: none;
+    padding: 0;
+    background-color: yellowgreen;
+}
+#navbar li{
+    display: inline;
+}
+
+#search{
+    text-align: center;
+}
+#search > *{
+    display: block;
+    background-color: orangered;
+    margin: 0 auto;
+}
