@@ -1,0 +1,1 @@
+In this project I will attempt to recreate the google home page. I intend to hone my git skills as well as my html and css abilities.
