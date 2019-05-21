@@ -17,3 +17,8 @@ Issues:
 
 Issues:
  None at the moment.
+
+ 3.
+
+ Done:
+ Added footer and pushed it to the bottom with position: fixed and bottom: 0. Decided to conclude the project here because anything else would be just slight tweaks to perfect the page. Only thing I could have done better is styling the search box to resemble googles one a bit more, I also could have fixed the curser that shows up inside the search box beuse it overflows out of the search box.

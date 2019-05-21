@@ -54,3 +54,26 @@
     font-size: 13px;
     font-family: arial,sans-serif;
 }
+
+#footer{
+    background-color: #f2f2f2;
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    font-family: arial,sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+}
+#footer_country{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 0;
+}
+.footer_link{
+    display: inline;
+    margin-bottom: 5px;
+}
+#footer_hr{
+    color: gray;
+}
